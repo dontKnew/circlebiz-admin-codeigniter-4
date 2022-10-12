@@ -1,0 +1,6 @@
+hosting setting
+
+- .htaccess mixed with ci .htaccess
+
+- will problme arise
+	=> space tag and category could not find;
